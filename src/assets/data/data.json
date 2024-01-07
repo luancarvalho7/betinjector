@@ -1,5 +1,18 @@
 [
   {
+    "casino": "GreenBets",
+    "players": 2200000,
+    "revenue": 31768000,
+    "suppliers": [
+      "PG Soft",
+      "Evoplay",
+      "pragmaticplay",
+      "Spribe"
+    ],
+    "image": "https://i.postimg.cc/3N2WsDmh/greenbets.webp",
+    "link": "https://afiliados.greenbets.io/visit/?bta=68434&brand=greenbetsio"
+  },
+  {
     "casino": "PlayPix",
     "players": 12600000,
     "revenue": 48500000,
@@ -10,20 +23,7 @@
       "Evoplay"
     ],
     "image": "https://i.postimg.cc/TYXKrCv3/playpix.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
-  },
-  {
-    "casino": "BullsBet",
-    "players": 900000,
-    "revenue": 3420000,
-    "suppliers": [
-      "PG Soft",
-      "Spribe",
-      "pragmaticplay",
-      "Evoplay"
-    ],
-    "image": "https://i.imgur.com/UOp2DO4.png",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
+    "link": "https://afiliados.greenbets.io/visit/?bta=68434&brand=greenbetsio"
   },
   {
     "casino": "RealsBet",
@@ -37,20 +37,7 @@
       "Evoplay"
     ],
     "image": "https://i.postimg.cc/sD9vK739/realsbet.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
-  },
-  {
-    "casino": "GreenBets",
-    "players": 2200000,
-    "revenue": 31768000,
-    "suppliers": [
-      "PG Soft",
-      "Evoplay",
-      "pragmaticplay",
-      "Spribe"
-    ],
-    "image": "https://i.postimg.cc/3N2WsDmh/greenbets.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
+    "link": "https://afiliados.greenbets.io/visit/?bta=68434&brand=greenbetsio"
   },
   {
     "casino": "NutsBet",
@@ -64,7 +51,7 @@
       "Evoplay"
     ],
     "image": "https://i.postimg.cc/pVj9h37S/nutsbet.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
+    "link": "https://afiliados.greenbets.io/visit/?bta=68434&brand=greenbetsio"
   },
   {
     "casino": "MMAbet",
@@ -78,7 +65,7 @@
       "Evoplay"
     ],
     "image": "https://i.postimg.cc/0ykr4jQg/mma.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
+    "link": "https://afiliados.greenbets.io/visit/?bta=68434&brand=greenbetsio"
   },
   {
     "casino": "Esporte da Sorte",
@@ -91,6 +78,6 @@
       "netgaming"
     ],
     "image": "https://i.postimg.cc/TwzpNcyQ/esporte.webp",
-    "link": "https://playpix.com/affiliates/?btag=1603490_l253718"
+    "link": "https://afiliados.greenbets.io/visit/?bta=68434&brand=greenbetsio"
   }
 ]
